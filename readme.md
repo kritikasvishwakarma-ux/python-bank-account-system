@@ -41,4 +41,4 @@ balance after credit 11500
 ---
 
 ## Author
-Kriti Vishwakarma
+Kritika Vishwakarma
